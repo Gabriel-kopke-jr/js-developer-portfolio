@@ -37,13 +37,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criação de uma Pokedex",
+      "url": "https://github.com/Gabriel-kopke-jr/Pokedex-dio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Classificação Dog - Cat Kaggle",
+      "url": "https://github.com/Gabriel-kopke-jr/dog-cat-classification-kaggle",
       "github": true
     }
   ],
